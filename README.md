@@ -61,4 +61,4 @@ setup(name = "HELLO" ,
 - Si es onefile ó onedirectory. Hay más opciones que puedes investigar.
 - Dar al botón 'Convert .py to .exe' y en la carpeta que hayas configurado tendrás el ejecutable.
 
-> NOTA: Realmente esto es un GUI para el método 2 (pipinstaller), pero más fácil de usar. Si no quieres tener problemas de antivirus, selecciona 'onedirectory'. Será una carpeta con archivos necesarios, pero mucha menos cantidad que los otros métodos.
+> NOTA: Realmente esto es un GUI para el método 2 (pyinstaller), pero más fácil de usar. Si no quieres tener problemas de antivirus, selecciona **'onedirectory'**. Será una carpeta con archivos necesarios, pero mucha menos cantidad que los otros métodos.
